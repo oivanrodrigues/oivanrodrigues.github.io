@@ -3343,7 +3343,7 @@ a.read-more-btn2.btn:hover {
 
 .w3l-top-header-content nav.navbar {
   background-color: #14817b;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 .w3l-top-header-content a.navbar-brand {
@@ -3352,6 +3352,20 @@ a.read-more-btn2.btn:hover {
   padding: 0;
   padding-left: 150px;
 }
+
+@media (max-width: 1280px) {
+  .w3l-top-header-content a.navbar-brand {
+    color: #101d29;
+    font-size: 28px;
+    padding: 0;
+  }
+
+@media (max-width: 992px) {
+  .w3l-top-header-content a.navbar-brand {
+    color: #101d29;
+    font-size: 28px;
+    padding: 0;
+  }
 
 .w3l-top-header-content a.navbar-brand span.fa {
   color: #ff6768;
@@ -3558,6 +3572,7 @@ a.read-more-btn2.btn:hover {
   text-transform: uppercase;
   font-weight: 900;
   line-height: 80px;
+  padding-bottom: 60px;
 }
 
 .w3l-banner-slider-main .carousel-caption p {
@@ -8221,7 +8236,7 @@ pre code {
 .container-xl {
   width: 100%;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 57px;
   margin-right: auto;
   margin-left: auto;
 }
@@ -12162,6 +12177,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   padding-left: 0;
   margin-bottom: 0;
+  margin-right: 100px;
   list-style: none;
 }
 
