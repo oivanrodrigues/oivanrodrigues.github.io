@@ -6492,7 +6492,7 @@ div.ppt {
 .w3l-footer-22-main .columns p a {
   font-size: 15px;
   line-height: 20px;
-  color: #8f9eab;
+  color: #1e1e1e;
 }
 
 .w3l-footer-22-main .sub-two-right ul li a {
@@ -6521,7 +6521,7 @@ div.ppt {
 }
 
 .w3l-footer-22-main .below-section {
-  background-color: #0b1721;
+  background-color: #61be8d;
   padding: 10px 0;
 }
 
@@ -7995,8 +7995,11 @@ h3,
 
 h4,
 .h4 {
-  font-size: 1.5rem;
-}
+  font-size: 46px;
+  line-height: 40px;
+  color: #101d29;
+  font-weight: 900;
+}}
 
 @media (max-width: 1200px) {
 
@@ -8069,6 +8072,18 @@ h6,
   }
 }
 
+
+.w3l-contact-main .submit {
+  border: 2px solid #61be8d;
+  color: #fff;
+  background: #61be8d;
+  font-size: 17px;
+  padding: 12px 30px;
+  border-radius: 0px;
+  font-weight: 700;
+  display: block;
+  border-radius: 6px;
+}
 hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
