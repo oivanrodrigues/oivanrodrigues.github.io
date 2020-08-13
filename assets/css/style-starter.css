@@ -6521,7 +6521,7 @@ div.ppt {
 }
 
 .w3l-footer-22-main .below-section {
-  background-color: #61be8d;
+  background-color: #14817b;
   padding: 10px 0;
 }
 
@@ -6769,6 +6769,19 @@ div.ppt {
   }
 }
 
+.w3l-content-9 .content-9-main {
+  background: url(../images/contato.jpg) no-repeat center;
+  background-size: cover;
+  z-index: 0;
+  position: relative;
+  padding: 100px 0;
+}
+
+
+
+.marcas {
+  font-size: 20px;
+}
 .w3l-team-main {
   /*-- team --*/
   /*-- //team --*/
@@ -7995,10 +8008,10 @@ h3,
 
 h4,
 .h4 {
-  font-size: 46px;
+  font-size: 35px;
   line-height: 40px;
   color: #101d29;
-  font-weight: 900;
+  font-weight: 600;
 }}
 
 @media (max-width: 1200px) {
@@ -8295,7 +8308,7 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -15px;
+  margin-right: 50px;
   margin-left: -15px;
 }
 
@@ -9096,6 +9109,7 @@ pre code {
   .col-lg-8 {
     flex: 0 0 66.66667%;
     max-width: 66.66667%;
+    padding-bottom: 30px;
   }
 
   .col-lg-9 {
@@ -9184,6 +9198,7 @@ pre code {
 
   .offset-lg-1 {
     margin-left: 8.33333%;
+    
   }
 
   .offset-lg-2 {
