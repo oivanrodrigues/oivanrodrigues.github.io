@@ -28,6 +28,14 @@ input {
   font-family: "gothambold", sans-serif;
 }
 
+
+hny-title-antenado {
+font-size: 40px;
+line-height: 50px;
+color: #101d29;
+margin-bottom: 24px;
+font-weight: 700;
+}
 body p {
   line-height: 1.5;
   font-size: 15px;
