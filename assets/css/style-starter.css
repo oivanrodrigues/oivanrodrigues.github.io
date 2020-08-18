@@ -17,6 +17,52 @@ h6 {
   font-family: "gothambold", sans-serif;
 }
 
+.img-antenados {
+  width: 680px;
+  height: 100%;
+}
+
+@media (max-width: 1280px) {
+
+  .img-antenados {
+    width: 680px;
+    height: 100%;}
+  }
+
+ 
+
+@media (max-width: 667px) {
+
+  .img-antenados {
+    width: 680px;
+    height: 100%;}
+  }
+
+@media (max-width: 480px) {
+
+  .img-antenados {
+    width: 378px;
+    height: 100%;}
+  }
+
+@media (max-width: 440px) {
+
+  .img-antenados {
+    width: 330  px;
+    height: 100%;
+  }
+}
+
+.img-marca {
+  width: 150px;
+}
+
+.img-marca-mother {
+  padding-top: 10px;
+}
+
+.img-marca-mother
+
 body,
 body a,
 body li,
@@ -28,6 +74,11 @@ input {
   font-family: "gothambold", sans-serif;
 }
 
+
+.texto-contato {
+  font-size: 15px;
+  font-family: gothamlight;
+}
 
 hny-title-antenado {
 font-size: 40px;
