@@ -17,8 +17,13 @@ h6 {
   font-family: "gothambold", sans-serif;
 }
 
-.text-medio {
+.text-negocios {
+  padding-left: 15px;
+}
 
+.text-medio {
+padding-left: 15px;
+margin-right: 50%;
 }
 
 @media (max-width: 1280px) {
@@ -127,14 +132,25 @@ h6 {
 }
 
 .img-marca {
-  width: 150px;
+  width: 140px;
 }
 
 .img-marca-mother {
   padding-top: 10px;
+  width: 74%;
+  height: 100%;
 }
 
 .img-marca-mother
+
+.meio-site {
+  font-size: 40px;
+line-height: 50px;
+color: #fff;
+margin-bottom: 24px;
+font-weight: 700;
+padding-left: 15px;
+}
 
 body,
 body a,
@@ -150,7 +166,7 @@ input {
 
 .texto-contato {
   font-size: 15px;
-  font-family: gothamlight;
+  padding-left: 17px;
 }
 
 hny-title-antenado {
@@ -203,7 +219,6 @@ h3.hny-title.two {
   color: #101d29;
   margin-bottom: 24px;
   font-weight: 700;
-  padding-left: 15px;
 }
 
 h3.hny-title.two {
@@ -255,6 +270,7 @@ a.read-more-btn2.btn:hover {
   h3.hny-title.two {
     font-size: 36px;
     line-height: 46px;
+    padding-left: 15px;
   }
 
   body p {
@@ -269,6 +285,8 @@ a.read-more-btn2.btn:hover {
   h3.hny-title.two {
     font-size: 30px;
     line-height: 40px;
+    padding-left: 15px;
+    
   }
 
   a.read-more-btn.btn {
@@ -282,6 +300,7 @@ a.read-more-btn2.btn:hover {
   h3.hny-title.two {
     font-size: 28px;
     line-height: 38px;
+    padding-left: 15px;
   }
 }
 
@@ -291,6 +310,7 @@ a.read-more-btn2.btn:hover {
   h3.hny-title.two {
     font-size: 26px;
     line-height: 36px;
+    padding-left: 15px;
   }
 }
 
@@ -16528,6 +16548,8 @@ button.bg-dark:focus {
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important;
+  padding-top: 10px;
+  margin-right: 40px;
 }
 
 .ml-4,
